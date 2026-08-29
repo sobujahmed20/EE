@@ -24,7 +24,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= CONFIG ================= #
-BOT_TOKEN = "8821996158:AAHWdHrna4yOT0dJJ6xsiu2DrWhO0HYjX0s"
+BOT_TOKEN = "8821996158:AAGeNh3bxR4rACu_VzNpzJKT3kjAB_hZcRw"
 ADMIN_IDS = [8876911955]
 SUPPORT_USERNAME = "@onlysazzat"
 ADEXIUM_WID = "603d8f80-1a46-46f5-8cc0-8b1ae00d8928"
