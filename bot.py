@@ -23,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= CONFIG ================= #
-BOT_TOKEN = "8821996158:AAGeNh3bxR4rACu_VzNpzJKT3kjAB_hZcRw"
+BOT_TOKEN = "8821996158:AAGPml4Xz8Yl499TxJwEpXU_BQBMcbe3orU"
 ADMIN_IDS = [8876911955]
 SUPPORT_USERNAME = "@onlysazzat"
 
