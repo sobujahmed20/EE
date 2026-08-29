@@ -12,7 +12,7 @@ from telebot import types
 from flask import Flask, redirect
 
 # ================= CONFIGURATION ================= #
-BOT_TOKEN = "8821996158:AAHWdHrna4yOT0dJJ6xsiu2DrWhO0HYjX0s"
+BOT_TOKEN = "8821996158:AAGeNh3bxR4rACu_VzNpzJKT3kjAB_hZcRw"
 ADMIN_IDS = [8876911955]
 CHANNEL_CHAT_ID = -1004331555496
 SUPPORT_USERNAME = "@onlysazzat"
